@@ -6,13 +6,12 @@
       <file name="$USER_HOME$/Source/classroom-web/src/app/helpers/settings-helper.js" timestamp="1483751990057">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/jsperf/harness.js" timestamp="1485771935284">
-        <mark key="'" line="110" column="0" />
-        <mark key="k" line="68" column="22" />
-        <mark key="[" line="26" column="44" />
-        <mark key="]" line="26" column="47" />
-        <mark key="." line="26" column="47" />
-        <mark key="^" line="26" column="47" />
+      <file name="$USER_HOME$/jsperf/harness.js" timestamp="1485776672081">
+        <mark key="'" line="90" column="0" />
+        <mark key="k" line="48" column="22" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1485222777343">
         <mark key="[" line="0" column="0" />
@@ -48,6 +47,13 @@
       </file>
       <file name="$USER_HOME$/Source/registrar/src/errors.js" timestamp="1485388651630">
         <mark key="'" line="170" column="39" />
+      </file>
+      <file name="$USER_HOME$/jsperf/tests/lodash4174.js" timestamp="1485776701236">
+        <mark key="'" line="4" column="59" />
+        <mark key="[" line="9" column="28" />
+        <mark key="]" line="9" column="30" />
+        <mark key="." line="9" column="30" />
+        <mark key="^" line="9" column="30" />
       </file>
       <file name="$USER_HOME$/Source/sarlacc/test/db/registrarFlowSampleData.spec.js" timestamp="1483552732460">
         <mark key="'" line="359" column="13" />
@@ -110,19 +116,19 @@
         <mark key="a" line="381" column="21" />
         <mark key="'" line="370" column="0" />
       </file>
-      <file name="$USER_HOME$/jsperf/tests/index.js" timestamp="1485768136063">
+      <file name="$USER_HOME$/jsperf/tests/index.js" timestamp="1485776567590">
         <mark key="'" line="0" column="22" />
-        <mark key="[" line="11" column="29" />
-        <mark key="]" line="11" column="30" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="11" column="30" />
+        <mark key="[" line="12" column="26" />
+        <mark key="]" line="12" column="26" />
+        <mark key="^" line="12" column="26" />
+        <mark key="." line="12" column="26" />
       </file>
-      <file name="$USER_HOME$/jsperf/tests/lodash310.js" timestamp="1485771250871">
+      <file name="$USER_HOME$/jsperf/tests/lodash310.js" timestamp="1485776704679">
         <mark key="'" line="9" column="28" />
         <mark key="[" line="9" column="28" />
         <mark key="]" line="9" column="28" />
         <mark key="^" line="1" column="29" />
-        <mark key="." line="9" column="28" />
+        <mark key="." line="9" column="30" />
       </file>
       <file name="$USER_HOME$/Source/registrar/db_integration_test/fake_gae/package.json" timestamp="1482460974992">
         <mark key="'" line="44" column="0" />
@@ -168,17 +174,15 @@
         <mark key="^" line="103" column="21" />
         <mark key="." line="103" column="21" />
       </file>
-      <file name="$USER_HOME$/jsperf/tests/lodash400.js" timestamp="1485771251663">
+      <file name="$USER_HOME$/jsperf/tests/lodash400.js" timestamp="1485776707543">
         <mark key="'" line="9" column="0" />
         <mark key="[" line="9" column="28" />
         <mark key="]" line="9" column="28" />
         <mark key="^" line="1" column="29" />
-        <mark key="." line="9" column="28" />
+        <mark key="." line="9" column="30" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="0" filename="$USER_HOME$/jsperf/render.js" />
-      <jump line="18" column="0" filename="$USER_HOME$/jsperf/harness.js" />
       <jump line="10" column="0" filename="$USER_HOME$/jsperf/render.js" />
       <jump line="2" column="0" filename="$USER_HOME$/jsperf/render.js" />
       <jump line="3" column="0" filename="$USER_HOME$/jsperf/render.js" />
@@ -277,22 +281,24 @@
       <jump line="149" column="0" filename="$USER_HOME$/jsperf/render.js" />
       <jump line="9" column="28" filename="$USER_HOME$/jsperf/tests/lodash310.js" />
       <jump line="9" column="0" filename="$USER_HOME$/jsperf/tests/lodash400.js" />
+      <jump line="1" column="22" filename="$USER_HOME$/jsperf/tests/lodash4174.js" />
+      <jump line="4" column="59" filename="$USER_HOME$/jsperf/tests/lodash4174.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>iterations</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBmb3IgKGxldCBpID0gMDsgaSA8IG1lYXN1cmVtZW50cy5sZW5ndGg7IGkrKykgewogICAgbWVhc3VyZW1lbnRzW2ldID0gMTAwMC4wIC8gbWVhc3VyZW1lbnRzW2ldOwogIH0KCg==</text>
       </register>
       <register name="-" type="4">
-        <text>iterations</text>
+        <text>4.0.0</text>
       </register>
       <register name="/" type="4">
-        <text>h1</text>
+        <text>4.0.0</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgYWZ0ZXIgPSBwZXJmb3JtYW5jZS5ub3coKTsK</text>
+        <text encoding="base64">YWRkU2NyaXB0KCd0ZXN0cy9sb2Rhc2g0MDAuanMnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGNoYW5nZWQgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICBmb3IgKGxldCBpID0gMDsgaSA8IG1lYXN1cmVtZW50cy5sZW5ndGg7IGkrKykgewogICAgbWVhc3VyZW1lbnRzW2ldID0gMTAwMC4wIC8gbWVhc3VyZW1lbnRzW2ldOwogIH0KCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -317,43 +323,42 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgdGltZSA9IHJlcGVhdChmbiwgMSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGxhc3RUaW1lID0gbnVsbDsKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgbGV0IGNoYW5nZWQgPSBmYWxzZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc3QgdGltZSA9IHJlcGVhdChmbiwgMSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IG1lYXN1cmVtZW50cyA9IFtdOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGxhc3RUaW1lID0gTmFOOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByZXR1cm4gYWZ0ZXIgLSBiZWZvcmU7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IG1lYXN1cmVtZW50cyA9IFtdOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgYmVmb3JlID0gcGVyZm9ybWFuY2Uubm93KCk7CiAgICAgIGZuKCk7CiAgICAgIGNvbnN0IGFmdGVyID0gcGVyZm9ybWFuY2Uubm93KCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGxhc3RUaW1lID0gTmFOOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICByZXR1cm4gYWZ0ZXIgLSBiZWZvcmU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>h1</last-search>
+      <last-search>4.0.0</last-search>
       <last-offset />
-      <last-pattern>h1</last-pattern>
+      <last-pattern>4.0.0</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>tag</entry>
         <entry encoding="base64">XDxoYXNUYWdcPg==</entry>
         <entry>email</entry>
         <entry>capital</entry>
@@ -373,6 +378,7 @@
         <entry encoding="base64">XDxhcHBlbmRcPg==</entry>
         <entry>li</entry>
         <entry>h1</entry>
+        <entry>4.0.0</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
