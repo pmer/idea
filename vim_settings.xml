@@ -6,11 +6,11 @@
       <file name="$USER_HOME$/Source/classroom-web/src/app/helpers/settings-helper.js" timestamp="1483751990057">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/jsperf/harness.js" timestamp="1485755688152">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="63" column="0" />
-        <mark key="]" line="63" column="0" />
-        <mark key="." line="63" column="0" />
+      <file name="$USER_HOME$/jsperf/harness.js" timestamp="1485762357364">
+        <mark key="'" line="75" column="0" />
+        <mark key="[" line="13" column="28" />
+        <mark key="]" line="13" column="28" />
+        <mark key="." line="13" column="28" />
         <mark key="^" line="67" column="65" />
       </file>
       <file name="/a.dummy" timestamp="1485222777343">
@@ -33,6 +33,12 @@
       </file>
       <file name="$USER_HOME$/Source/classroom-web/src/app/components/me/show/_main.jsx" timestamp="1483752062825">
         <mark key="'" line="57" column="4" />
+      </file>
+      <file name="$USER_HOME$/jsperf/render.js" timestamp="1485762386812">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Source/registrar/src/controllers/accounts.js" timestamp="1485390522805">
         <mark key="'" line="265" column="22" />
@@ -86,13 +92,11 @@
       <file name="$USER_HOME$/Source/classroom-web/src/app/reducers/alerts.js" timestamp="1483741000170">
         <mark key="'" line="1" column="32" />
       </file>
-      <file name="$USER_HOME$/jsperf/ui.js" timestamp="1485758985674">
-        <mark key="'" line="90" column="4" />
-        <mark key="k" line="48" column="0" />
-        <mark key="[" line="97" column="1" />
-        <mark key="]" line="98" column="0" />
-        <mark key="." line="98" column="0" />
-        <mark key="^" line="98" column="0" />
+      <file name="$USER_HOME$/jsperf/ui.js" timestamp="1485762671393">
+        <mark key="'" line="63" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Source/classroom-content/src/lib/udacity_api/user/user.js" timestamp="1483735725611">
         <mark key="'" line="278" column="16" />
@@ -169,23 +173,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="567" column="13" filename="$USER_HOME$/Source/registrar/src/routes/v1handlers.js" />
-      <jump line="249" column="11" filename="$USER_HOME$/Source/registrar/src/controllers/accounts.js" />
-      <jump line="23" column="45" filename="$USER_HOME$/Source/registrar/src/routes/v1.js" />
-      <jump line="397" column="12" filename="$USER_HOME$/Source/registrar/src/routes/v1handlers.js" />
-      <jump line="221" column="11" filename="$USER_HOME$/Source/registrar/src/controllers/accounts.js" />
-      <jump line="22" column="41" filename="$USER_HOME$/Source/registrar/src/routes/v1.js" />
-      <jump line="366" column="13" filename="$USER_HOME$/Source/registrar/src/routes/v1handlers.js" />
-      <jump line="175" column="11" filename="$USER_HOME$/Source/registrar/src/controllers/accounts.js" />
-      <jump line="21" column="41" filename="$USER_HOME$/Source/registrar/src/routes/v1.js" />
-      <jump line="334" column="13" filename="$USER_HOME$/Source/registrar/src/routes/v1handlers.js" />
-      <jump line="208" column="11" filename="$USER_HOME$/Source/registrar/src/controllers/accounts.js" />
-      <jump line="20" column="41" filename="$USER_HOME$/Source/registrar/src/routes/v1.js" />
-      <jump line="306" column="13" filename="$USER_HOME$/Source/registrar/src/routes/v1handlers.js" />
-      <jump line="108" column="11" filename="$USER_HOME$/Source/registrar/src/controllers/accounts.js" />
-      <jump line="18" column="41" filename="$USER_HOME$/Source/registrar/src/routes/v1.js" />
-      <jump line="205" column="13" filename="$USER_HOME$/Source/registrar/src/routes/v1handlers.js" />
-      <jump line="24" column="43" filename="$USER_HOME$/Source/registrar/src/routes/v1.js" />
       <jump line="568" column="13" filename="$USER_HOME$/Source/registrar/src/routes/v1handlers.js" />
       <jump line="254" column="15" filename="$USER_HOME$/Source/registrar/src/controllers/accounts.js" />
       <jump line="228" column="11" filename="$USER_HOME$/Source/registrar/src/controllers/accounts.js" />
@@ -212,21 +199,17 @@
       <jump line="39" column="0" filename="$USER_HOME$/jsperf/ui.js" />
       <jump line="23" column="15" filename="$USER_HOME$/jsperf/ui.js" />
       <jump line="15" column="0" filename="$USER_HOME$/jsperf/ui.js" />
-      <jump line="11" column="0" filename="$USER_HOME$/jsperf/ui.js" />
       <jump line="16" column="0" filename="$USER_HOME$/jsperf/ui.js" />
       <jump line="12" column="0" filename="$USER_HOME$/jsperf/ui.js" />
       <jump line="3" column="0" filename="$USER_HOME$/jsperf/ui.js" />
       <jump line="1" column="0" filename="$USER_HOME$/jsperf/ui.js" />
       <jump line="76" column="17" filename="$USER_HOME$/jsperf/ui.js" />
-      <jump line="41" column="4" filename="$USER_HOME$/jsperf/ui.js" />
       <jump line="67" column="15" filename="$USER_HOME$/jsperf/ui.js" />
       <jump line="60" column="11" filename="$USER_HOME$/jsperf/ui.js" />
       <jump line="52" column="0" filename="$USER_HOME$/jsperf/ui.js" />
-      <jump line="68" column="0" filename="$USER_HOME$/jsperf/ui.js" />
       <jump line="87" column="0" filename="$USER_HOME$/jsperf/ui.js" />
       <jump line="2" column="2" filename="$USER_HOME$/jsperf/tests/index.js" />
       <jump line="0" column="0" filename="$USER_HOME$/jsperf/tests/index.js" />
-      <jump line="18" column="0" filename="$USER_HOME$/jsperf/harness.js" />
       <jump line="0" column="0" filename="$USER_HOME$/jsperf/ui.js" />
       <jump line="6" column="0" filename="$USER_HOME$/jsperf/harness.js" />
       <jump line="62" column="0" filename="$USER_HOME$/jsperf/harness.js" />
@@ -252,39 +235,60 @@
       <jump line="54" column="0" filename="$USER_HOME$/jsperf/harness.js" />
       <jump line="60" column="0" filename="$USER_HOME$/jsperf/harness.js" />
       <jump line="58" column="11" filename="$USER_HOME$/jsperf/harness.js" />
-      <jump line="14" column="0" filename="$USER_HOME$/jsperf/ui.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/jsperf/ui.js" />
       <jump line="13" column="0" filename="$USER_HOME$/jsperf/ui.js" />
-      <jump line="17" column="0" filename="$USER_HOME$/jsperf/ui.js" />
       <jump line="21" column="0" filename="$USER_HOME$/jsperf/ui.js" />
       <jump line="63" column="0" filename="$USER_HOME$/jsperf/harness.js" />
       <jump line="64" column="0" filename="$USER_HOME$/jsperf/harness.js" />
-      <jump line="75" column="0" filename="$USER_HOME$/jsperf/harness.js" />
       <jump line="11" column="0" filename="$USER_HOME$/jsperf/harness.js" />
       <jump line="26" column="0" filename="$USER_HOME$/jsperf/ui.js" />
       <jump line="62" column="0" filename="$USER_HOME$/jsperf/ui.js" />
       <jump line="3" column="0" filename="$USER_HOME$/jsperf/index.html" />
-      <jump line="8" column="0" filename="$USER_HOME$/jsperf/ui.js" />
       <jump line="37" column="0" filename="$USER_HOME$/jsperf/ui.js" />
       <jump line="30" column="0" filename="$USER_HOME$/jsperf/ui.js" />
-      <jump line="36" column="0" filename="$USER_HOME$/jsperf/ui.js" />
       <jump line="90" column="4" filename="$USER_HOME$/jsperf/ui.js" />
+      <jump line="98" column="0" filename="$USER_HOME$/jsperf/ui.js" />
+      <jump line="113" column="0" filename="$USER_HOME$/jsperf/ui.js" />
+      <jump line="36" column="0" filename="$USER_HOME$/jsperf/ui.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/jsperf/render.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/jsperf/render.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/jsperf/render.js" />
+      <jump line="22" column="0" filename="$USER_HOME$/jsperf/render.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/jsperf/harness.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/jsperf/harness.js" />
+      <jump line="75" column="0" filename="$USER_HOME$/jsperf/harness.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/jsperf/render.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/jsperf/render.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/jsperf/render.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/jsperf/render.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/jsperf/render.js" />
+      <jump line="14" column="0" filename="$USER_HOME$/jsperf/ui.js" />
+      <jump line="11" column="2" filename="$USER_HOME$/jsperf/ui.js" />
+      <jump line="17" column="2" filename="$USER_HOME$/jsperf/ui.js" />
+      <jump line="41" column="9" filename="$USER_HOME$/jsperf/ui.js" />
+      <jump line="55" column="2" filename="$USER_HOME$/jsperf/ui.js" />
+      <jump line="68" column="4" filename="$USER_HOME$/jsperf/ui.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/jsperf/ui.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/jsperf/ui.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/jsperf/ui.js" />
+      <jump line="49" column="0" filename="$USER_HOME$/jsperf/ui.js" />
+      <jump line="53" column="0" filename="$USER_HOME$/jsperf/ui.js" />
+      <jump line="61" column="0" filename="$USER_HOME$/jsperf/ui.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gc2hvdyhtc2cpIHsKICBsZXQgcCA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ3AnKTsKICBsZXQgdGV4dCA9IGRvY3VtZW50LmNyZWF0ZVRleHROb2RlKG1zZyk7CiAgcC5hcHBlbmRDaGlsZCh0ZXh0KTsKICBkb2N1bWVudC5ib2R5LmFwcGVuZENoaWxkKHApOwp9CgovLyR7bXUudG9GaXhlZCgzKX3CsSR7c3RkZXYudG9GaXhlZCgzKX1tcwpjb25zdCBoYXJuZXNzVWkgPSB7CiAgc25pcHBldEJlZ2luOiBmdW5jdGlvbigpIHsKICAgIHJlcmVuZGVyKCk7CiAgfSwKICBzbmlwcGV0RW5kOiBmdW5jdGlvbigpIHsKICAgIHJlcmVuZGVyKCk7CiAgfQp9OwoKCg==</text>
+        <text encoding="base64">KCkKCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KCkgPT4=</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0ZXN0XD4=</text>
+        <text encoding="base64">XDxyZXJlbmRlclw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJlcmVuZGVyKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gc2hvdyhtc2cpIHsKICBsZXQgcCA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ3AnKTsKICBsZXQgdGV4dCA9IGRvY3VtZW50LmNyZWF0ZVRleHROb2RlKG1zZyk7CiAgcC5hcHBlbmRDaGlsZCh0ZXh0KTsKICBkb2N1bWVudC5ib2R5LmFwcGVuZENoaWxkKHApOwp9CgovLyR7bXUudG9GaXhlZCgzKX3CsSR7c3RkZXYudG9GaXhlZCgzKX1tcwpjb25zdCBoYXJuZXNzVWkgPSB7CiAgc25pcHBldEJlZ2luOiBmdW5jdGlvbigpIHsKICAgIHJlcmVuZGVyKCk7CiAgfSwKICBzbmlwcGV0RW5kOiBmdW5jdGlvbigpIHsKICAgIHJlcmVuZGVyKCk7CiAgfQp9OwoKCg==</text>
+        <text encoding="base64">KCkKCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -315,37 +319,36 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y29uc3QgdGVzdHMgPSBbXTsKCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gc2hvdyhtc2cpIHsKICBsZXQgcCA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ3AnKTsKICBsZXQgdGV4dCA9IGRvY3VtZW50LmNyZWF0ZVRleHROb2RlKG1zZyk7CiAgcC5hcHBlbmRDaGlsZCh0ZXh0KTsKICBkb2N1bWVudC5ib2R5LmFwcGVuZENoaWxkKHApOwp9CgovLyR7bXUudG9GaXhlZCgzKX3CsSR7c3RkZXYudG9GaXhlZCgzKX1tcwo=</text>
+        <text encoding="base64">ICB0ZXN0ID0gCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgaGFybmVzc1VpID0gewogIHNuaXBwZXRCZWdpbjogZnVuY3Rpb24oKSB7fSwKICBzbmlwcGV0RW5kOiBmdW5jdGlvbigpIHt9Cn07Cgo=</text>
+        <text encoding="base64">bGV0IHN0YXRlID0gU1RBVEVfTElTVF9URVNUUzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLyR7bXUudG9GaXhlZCgzKX3CsSR7c3RkZXYudG9GaXhlZCgzKX1tcwo=</text>
+        <text encoding="base64">bGV0IHN0YXRlUmVuZGVyRm4gPSBudWxsOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC50aGVuKCgpID0+IHVpLmVuZFNuaXBwZXQoc25pcHBldC50aXRsZSkpOwo=</text>
+        <text encoding="base64">ZnVuY3Rpb24gZWwodGFnTmFtZSkgewogIHJldHVybiBkb2N1bWVudC5jcmVhdGVFbGVtZW50KHRhZ05hbWUpOwp9CgpmdW5jdGlvbiB0ZXh0KGRhdGEpIHsKICByZXR1cm4gZG9jdW1lbnQuY3JlYXRlVGV4dE5vZGUoZGF0YSk7Cn0KCmZ1bmN0aW9uIGFwcGVuZChwYXJlbnQsIGNoaWxkKSB7CiAgcGFyZW50LmFwcGVuZENoaWxkKGNoaWxkKTsKfQoKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC50aGVuKCgpID0+IHVpLikK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0ZXN0XD4=</last-search>
+      <last-search encoding="base64">XDxyZXJlbmRlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0ZXN0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyZXJlbmRlclw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>&quot;2016</entry>
         <entry>ud837</entry>
         <entry>&quot;ud837&quot;</entry>
         <entry>graduate_groups</entry>
@@ -365,6 +368,7 @@
         <entry encoding="base64">XDxyZW5kZXJMaXN0VGVzdHNcPg==</entry>
         <entry>yield</entry>
         <entry encoding="base64">XDx0ZXN0XD4=</entry>
+        <entry encoding="base64">XDxyZXJlbmRlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
