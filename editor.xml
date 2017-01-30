@@ -1,0 +1,11 @@
+<application>
+  <component name="EditorSettings">
+    <option name="IS_CARET_BLINKING" value="false" />
+    <option name="ARE_GUTTER_ICONS_SHOWN" value="false" />
+    <option name="IS_FOLDING_OUTLINE_SHOWN" value="false" />
+    <option name="SHOW_BREADCRUMBS" value="false" />
+    <option name="IS_INDENT_GUIDES_SHOWN" value="false" />
+    <option name="IS_ANIMATED_SCROLLING" value="false" />
+    <option name="IS_DND_ENABLED" value="false" />
+  </component>
+</application>
