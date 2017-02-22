@@ -6,6 +6,9 @@
       <file name="$USER_HOME$/Source/classroom-web/src/app/helpers/settings-helper.js" timestamp="1483751990057">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Source/sarlacc/src/server.js" timestamp="1487804657674">
+        <mark key="'" line="28" column="21" />
+      </file>
       <file name="$USER_HOME$/jsperf/harness.js" timestamp="1485776672081">
         <mark key="'" line="90" column="0" />
         <mark key="k" line="48" column="22" />
@@ -24,6 +27,9 @@
       </file>
       <file name="$USER_HOME$/Source/classroom-content/src/lib/udacity_api/common.js" timestamp="1483735714702">
         <mark key="'" line="73" column="21" />
+      </file>
+      <file name="$USER_HOME$/Source/sarlacc/src/db/sources.js" timestamp="1487804614619">
+        <mark key="'" line="13" column="4" />
       </file>
       <file name="$USER_HOME$/Source/classroom-content/src/lib/gae_user.js" timestamp="1484853265088">
         <mark key="'" line="57" column="35" />
@@ -88,8 +94,8 @@
       <file name="$USER_HOME$/Source/classroom-web/src/app/components/guru/enhance-with-mentor-config-setup.jsx" timestamp="1483752091063">
         <mark key="'" line="104" column="32" />
       </file>
-      <file name="$USER_HOME$/Source/sarlacc/src/db/registrarFlow.js" timestamp="1487804541873">
-        <mark key="'" line="25" column="0" />
+      <file name="$USER_HOME$/Source/sarlacc/src/db/registrarFlow.js" timestamp="1487804597302">
+        <mark key="'" line="16" column="0" />
         <mark key="[" line="806" column="0" />
         <mark key="]" line="806" column="0" />
         <mark key="^" line="806" column="1" />
@@ -111,10 +117,6 @@
       </file>
       <file name="$USER_HOME$/Source/sarlacc/test/sampleData/catalog.json" timestamp="1483492648518">
         <mark key="'" line="7058" column="7" />
-      </file>
-      <file name="$USER_HOME$/Source/classroom-web/src/app/services/user-service.js" timestamp="1484006426812">
-        <mark key="a" line="381" column="21" />
-        <mark key="'" line="370" column="0" />
       </file>
       <file name="$USER_HOME$/jsperf/tests/index.js" timestamp="1485776567590">
         <mark key="'" line="0" column="22" />
@@ -183,11 +185,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="$USER_HOME$/jsperf/render.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/jsperf/render.js" />
-      <jump line="14" column="0" filename="$USER_HOME$/jsperf/ui.js" />
-      <jump line="17" column="2" filename="$USER_HOME$/jsperf/ui.js" />
-      <jump line="41" column="9" filename="$USER_HOME$/jsperf/ui.js" />
       <jump line="55" column="2" filename="$USER_HOME$/jsperf/ui.js" />
       <jump line="68" column="4" filename="$USER_HOME$/jsperf/ui.js" />
       <jump line="7" column="0" filename="$USER_HOME$/jsperf/ui.js" />
@@ -283,6 +280,11 @@
       <jump line="1" column="22" filename="$USER_HOME$/jsperf/tests/lodash4174.js" />
       <jump line="4" column="59" filename="$USER_HOME$/jsperf/tests/lodash4174.js" />
       <jump line="25" column="0" filename="$USER_HOME$/Source/sarlacc/src/db/registrarFlow.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/Source/sarlacc/src/db/registrarFlow.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/Source/sarlacc/src/db/registrarFlow.js" />
+      <jump line="13" column="4" filename="$USER_HOME$/Source/sarlacc/src/db/sources.js" />
+      <jump line="8" column="36" filename="$USER_HOME$/Source/sarlacc/src/server.js" />
+      <jump line="28" column="21" filename="$USER_HOME$/Source/sarlacc/src/server.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
