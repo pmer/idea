@@ -25,6 +25,9 @@
       <file name="$USER_HOME$/Source/classroom-content/src/helpers/user_schema_helper.js" timestamp="1483735606033">
         <mark key="'" line="32" column="19" />
       </file>
+      <file name="$USER_HOME$/Source/registrar/src/models/membership.js" timestamp="1487808259055">
+        <mark key="'" line="20" column="0" />
+      </file>
       <file name="$USER_HOME$/Source/classroom-content/src/lib/udacity_api/common.js" timestamp="1483735714702">
         <mark key="'" line="73" column="21" />
       </file>
@@ -163,8 +166,8 @@
       <file name="$USER_HOME$/Source/sarlacc/test/sampleData/accountMixedBDConsumer.json" timestamp="1483490524558">
         <mark key="'" line="1319" column="6" />
       </file>
-      <file name="$USER_HOME$/Source/registrar/src/controllers/memberships.js" timestamp="1485391328540">
-        <mark key="'" line="14" column="18" />
+      <file name="$USER_HOME$/Source/registrar/src/controllers/memberships.js" timestamp="1487808287182">
+        <mark key="'" line="20" column="56" />
       </file>
       <file name="$USER_HOME$/Source/classroom-web/src/app/services/_queries.js" timestamp="1483996852146">
         <mark key="'" line="223" column="2" />
@@ -185,11 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="2" filename="$USER_HOME$/jsperf/ui.js" />
-      <jump line="68" column="4" filename="$USER_HOME$/jsperf/ui.js" />
-      <jump line="7" column="0" filename="$USER_HOME$/jsperf/ui.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/jsperf/ui.js" />
-      <jump line="49" column="0" filename="$USER_HOME$/jsperf/ui.js" />
       <jump line="53" column="0" filename="$USER_HOME$/jsperf/ui.js" />
       <jump line="61" column="0" filename="$USER_HOME$/jsperf/ui.js" />
       <jump line="11" column="0" filename="$USER_HOME$/jsperf/ui.js" />
@@ -285,6 +283,11 @@
       <jump line="13" column="4" filename="$USER_HOME$/Source/sarlacc/src/db/sources.js" />
       <jump line="8" column="36" filename="$USER_HOME$/Source/sarlacc/src/server.js" />
       <jump line="28" column="21" filename="$USER_HOME$/Source/sarlacc/src/server.js" />
+      <jump line="20" column="0" filename="$USER_HOME$/Source/registrar/src/models/membership.js" />
+      <jump line="16" column="0" filename="$USER_HOME$/Source/registrar/src/controllers/memberships.js" />
+      <jump line="27" column="40" filename="$USER_HOME$/Source/registrar/src/controllers/memberships.js" />
+      <jump line="19" column="17" filename="$USER_HOME$/Source/registrar/src/controllers/memberships.js" />
+      <jump line="20" column="56" filename="$USER_HOME$/Source/registrar/src/controllers/memberships.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -294,7 +297,7 @@
         <text>4.0.0</text>
       </register>
       <register name="/" type="4">
-        <text>4.0.0</text>
+        <text>group_key</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">YWRkU2NyaXB0KCd0ZXN0cy9sb2Rhc2g0MDAuanMnKTsK</text>
@@ -353,15 +356,14 @@
       </register>
     </registers>
     <search>
-      <last-search>4.0.0</last-search>
+      <last-search>group_key</last-search>
       <last-offset />
-      <last-pattern>4.0.0</last-pattern>
+      <last-pattern>group_key</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxoYXNUYWdcPg==</entry>
         <entry>email</entry>
         <entry>capital</entry>
         <entry>limit</entry>
@@ -381,6 +383,7 @@
         <entry>li</entry>
         <entry>h1</entry>
         <entry>4.0.0</entry>
+        <entry>group_key</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
