@@ -19,14 +19,6 @@
       <file name="$USER_HOME$/Source/classroom-web/src/app/components/settings/setting-personal-info.jsx" timestamp="1483736105360">
         <mark key="'" line="230" column="36" />
       </file>
-      <file name="$USER_HOME$/jsperf/render.js" timestamp="1485770565183">
-        <mark key="a" line="101" column="13" />
-        <mark key="'" line="149" column="0" />
-        <mark key="[" line="18" column="23" />
-        <mark key="]" line="18" column="25" />
-        <mark key="." line="18" column="25" />
-        <mark key="^" line="18" column="25" />
-      </file>
       <file name="$USER_HOME$/Source/registrar/src/controllers/accounts.js" timestamp="1485390522805">
         <mark key="'" line="265" column="22" />
       </file>
@@ -62,16 +54,17 @@
         <mark key="." line="5" column="91" />
         <mark key="^" line="5" column="91" />
       </file>
-      <file name="$USER_HOME$/Source/sarlacc/src/db/registrarFlow.js" timestamp="1487810606144">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="806" column="0" />
-        <mark key="]" line="806" column="0" />
-        <mark key="^" line="806" column="1" />
-        <mark key="." line="806" column="0" />
+      <file name="$USER_HOME$/Source/sarlacc/src/db/registrarFlow.js" timestamp="1487813403252">
+        <mark key="'" line="648" column="14" />
+        <mark key="[" line="898" column="0" />
+        <mark key="]" line="898" column="1" />
+        <mark key="^" line="898" column="1" />
+        <mark key="." line="898" column="1" />
       </file>
       <file name="$USER_HOME$/Source/classroom-web/src/app/reducers/alerts.js" timestamp="1483741000170">
         <mark key="'" line="1" column="32" />
       </file>
+      <file name="$USER_HOME$/Source/sarlacc/src/util/loadLimiter.js" timestamp="1487811748817" />
       <file name="$USER_HOME$/Source/registrar/db_integration_test/fake_gae/package.json" timestamp="1482460974992">
         <mark key="'" line="44" column="0" />
       </file>
@@ -117,8 +110,12 @@
         <mark key="]" line="47" column="0" />
         <mark key="." line="47" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/sarlacc/src/db/hothFlow.js" timestamp="1487811309291">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Source/sarlacc/src/db/hothFlow.js" timestamp="1487812626267">
+        <mark key="'" line="25" column="0" />
+        <mark key="[" line="76" column="17" />
+        <mark key="]" line="76" column="16" />
+        <mark key="." line="76" column="16" />
+        <mark key="^" line="76" column="16" />
       </file>
       <file name="$USER_HOME$/Source/classroom-content/src/helpers/user_schema_helper.js" timestamp="1483735606033">
         <mark key="'" line="32" column="19" />
@@ -132,6 +129,12 @@
       <file name="$USER_HOME$/Source/classroom-content/src/lib/gae_user.js" timestamp="1484853265088">
         <mark key="'" line="57" column="35" />
       </file>
+      <file name="$USER_HOME$/Source/sarlacc/src/db/query.js" timestamp="1487813421456">
+        <mark key="'" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/sarlacc/src/db/groupCreator.js" timestamp="1487813184591">
+        <mark key="'" line="42" column="20" />
+      </file>
       <file name="$USER_HOME$/Source/classroom-web/src/app/components/me/show/_main.jsx" timestamp="1483752062825">
         <mark key="'" line="57" column="4" />
       </file>
@@ -139,6 +142,9 @@
       <file name="$USER_HOME$/Source/sarlacc/src/routes/v1handlers.js" timestamp="1487810601319">
         <mark key="'" line="236" column="20" />
         <mark key="." line="225" column="78" />
+      </file>
+      <file name="$USER_HOME$/Source/sarlacc/src/db/dbUtils.js" timestamp="1487812329552">
+        <mark key="'" line="59" column="21" />
       </file>
       <file name="$USER_HOME$/Source/registrar/src/routes/v1handlers.js" timestamp="1485391326141">
         <mark key="'" line="683" column="16" />
@@ -154,11 +160,6 @@
       </file>
       <file name="$USER_HOME$/Source/classroom-content/src/schema/graduation_schema.js" timestamp="1483997090210">
         <mark key="'" line="29" column="25" />
-      </file>
-      <file name="$USER_HOME$/jsperf/ui.js" timestamp="1485770083354">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Source/classroom-content/src/lib/udacity_api/user/user.js" timestamp="1483735725611">
         <mark key="'" line="278" column="16" />
@@ -186,8 +187,8 @@
       <file name="$USER_HOME$/Source/classroom-web/src/app/helpers/url-helper.js" timestamp="1483655611467">
         <mark key="'" line="9" column="22" />
       </file>
-      <file name="$USER_HOME$/Source/sarlacc/src/db/streamBatcher.js" timestamp="1484100032854">
-        <mark key="'" line="72" column="29" />
+      <file name="$USER_HOME$/Source/sarlacc/src/db/streamBatcher.js" timestamp="1487811723764">
+        <mark key="'" line="21" column="27" />
         <mark key="[" line="72" column="41" />
         <mark key="]" line="74" column="15" />
         <mark key="^" line="74" column="15" />
@@ -198,64 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="0" filename="$USER_HOME$/jsperf/ui.js" />
-      <jump line="16" column="0" filename="$USER_HOME$/jsperf/ui.js" />
-      <jump line="78" column="0" filename="$USER_HOME$/jsperf/ui.js" />
-      <jump line="105" column="0" filename="$USER_HOME$/jsperf/ui.js" />
-      <jump line="8" column="0" filename="$USER_HOME$/jsperf/ui.js" />
-      <jump line="10" column="0" filename="$USER_HOME$/jsperf/ui.js" />
-      <jump line="12" column="0" filename="$USER_HOME$/jsperf/ui.js" />
-      <jump line="15" column="0" filename="$USER_HOME$/jsperf/ui.js" />
-      <jump line="102" column="0" filename="$USER_HOME$/jsperf/ui.js" />
-      <jump line="11" column="0" filename="$USER_HOME$/jsperf/index.html" />
-      <jump line="98" column="0" filename="$USER_HOME$/jsperf/harness.js" />
-      <jump line="99" column="7" filename="$USER_HOME$/jsperf/harness.js" />
-      <jump line="5" column="7" filename="$USER_HOME$/jsperf/harness.js" />
-      <jump line="34" column="2" filename="$USER_HOME$/jsperf/harness.js" />
-      <jump line="35" column="7" filename="$USER_HOME$/jsperf/harness.js" />
-      <jump line="84" column="7" filename="$USER_HOME$/jsperf/harness.js" />
-      <jump line="95" column="0" filename="$USER_HOME$/jsperf/harness.js" />
-      <jump line="45" column="0" filename="$USER_HOME$/jsperf/render.js" />
-      <jump line="43" column="0" filename="$USER_HOME$/jsperf/render.js" />
-      <jump line="12" column="0" filename="$USER_HOME$/jsperf/render.js" />
-      <jump line="8" column="9" filename="$USER_HOME$/jsperf/render.js" />
-      <jump line="84" column="0" filename="$USER_HOME$/jsperf/render.js" />
-      <jump line="77" column="0" filename="$USER_HOME$/jsperf/render.js" />
-      <jump line="9" column="2" filename="$USER_HOME$/jsperf/render.js" />
-      <jump line="90" column="0" filename="$USER_HOME$/jsperf/harness.js" />
-      <jump line="1" column="29" filename="$USER_HOME$/jsperf/tests/lodash400.js" />
-      <jump line="1" column="26" filename="$USER_HOME$/jsperf/tests/lodash310.js" />
-      <jump line="37" column="0" filename="$USER_HOME$/jsperf/render.js" />
-      <jump line="90" column="14" filename="$USER_HOME$/jsperf/render.js" />
-      <jump line="92" column="29" filename="$USER_HOME$/jsperf/render.js" />
-      <jump line="95" column="29" filename="$USER_HOME$/jsperf/render.js" />
-      <jump line="98" column="26" filename="$USER_HOME$/jsperf/render.js" />
-      <jump line="65" column="0" filename="$USER_HOME$/jsperf/render.js" />
-      <jump line="43" column="0" filename="$USER_HOME$/jsperf/ui.js" />
-      <jump line="83" column="0" filename="$USER_HOME$/jsperf/render.js" />
-      <jump line="136" column="0" filename="$USER_HOME$/jsperf/render.js" />
-      <jump line="52" column="0" filename="$USER_HOME$/jsperf/render.js" />
-      <jump line="56" column="22" filename="$USER_HOME$/jsperf/render.js" />
-      <jump line="24" column="2" filename="$USER_HOME$/jsperf/render.js" />
-      <jump line="21" column="0" filename="$USER_HOME$/jsperf/render.js" />
-      <jump line="16" column="0" filename="$USER_HOME$/jsperf/render.js" />
-      <jump line="149" column="0" filename="$USER_HOME$/jsperf/render.js" />
-      <jump line="9" column="28" filename="$USER_HOME$/jsperf/tests/lodash310.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/jsperf/tests/lodash400.js" />
-      <jump line="1" column="22" filename="$USER_HOME$/jsperf/tests/lodash4174.js" />
-      <jump line="4" column="59" filename="$USER_HOME$/jsperf/tests/lodash4174.js" />
-      <jump line="25" column="0" filename="$USER_HOME$/Source/sarlacc/src/db/registrarFlow.js" />
-      <jump line="16" column="0" filename="$USER_HOME$/Source/sarlacc/src/db/registrarFlow.js" />
-      <jump line="13" column="4" filename="$USER_HOME$/Source/sarlacc/src/db/sources.js" />
-      <jump line="8" column="36" filename="$USER_HOME$/Source/sarlacc/src/server.js" />
-      <jump line="28" column="21" filename="$USER_HOME$/Source/sarlacc/src/server.js" />
-      <jump line="20" column="0" filename="$USER_HOME$/Source/registrar/src/models/membership.js" />
-      <jump line="16" column="0" filename="$USER_HOME$/Source/registrar/src/controllers/memberships.js" />
-      <jump line="27" column="40" filename="$USER_HOME$/Source/registrar/src/controllers/memberships.js" />
-      <jump line="19" column="17" filename="$USER_HOME$/Source/registrar/src/controllers/memberships.js" />
-      <jump line="20" column="56" filename="$USER_HOME$/Source/registrar/src/controllers/memberships.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/Source/sarlacc/src/server.js" />
-      <jump line="6" column="0" filename="$USER_HOME$/Source/sarlacc/src/server.js" />
       <jump line="7" column="0" filename="$USER_HOME$/Source/sarlacc/src/server.js" />
       <jump line="9" column="0" filename="$USER_HOME$/Source/sarlacc/src/server.js" />
       <jump line="15" column="0" filename="$USER_HOME$/Source/sarlacc/src/server.js" />
@@ -298,16 +241,74 @@
       <jump line="236" column="20" filename="$USER_HOME$/Source/sarlacc/src/routes/v1handlers.js" />
       <jump line="18" column="0" filename="$USER_HOME$/Source/sarlacc/src/db/registrarFlow.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Source/sarlacc/src/db/hothFlow.js" />
+      <jump line="107" column="0" filename="$USER_HOME$/Source/sarlacc/src/db/hothFlow.js" />
+      <jump line="125" column="0" filename="$USER_HOME$/Source/sarlacc/src/db/hothFlow.js" />
+      <jump line="114" column="14" filename="$USER_HOME$/Source/sarlacc/src/db/hothFlow.js" />
+      <jump line="76" column="0" filename="$USER_HOME$/Source/sarlacc/src/db/hothFlow.js" />
+      <jump line="146" column="0" filename="$USER_HOME$/Source/sarlacc/src/db/hothFlow.js" />
+      <jump line="144" column="29" filename="$USER_HOME$/Source/sarlacc/src/db/hothFlow.js" />
+      <jump line="13" column="22" filename="$USER_HOME$/Source/sarlacc/src/db/streamBatcher.js" />
+      <jump line="21" column="27" filename="$USER_HOME$/Source/sarlacc/src/db/streamBatcher.js" />
+      <jump line="11" column="0" filename="$USER_HOME$/Source/sarlacc/src/util/loadLimiter.js" />
+      <jump line="140" column="0" filename="$USER_HOME$/Source/sarlacc/src/db/hothFlow.js" />
+      <jump line="129" column="0" filename="$USER_HOME$/Source/sarlacc/src/db/hothFlow.js" />
+      <jump line="78" column="17" filename="$USER_HOME$/Source/sarlacc/src/db/hothFlow.js" />
+      <jump line="60" column="9" filename="$USER_HOME$/Source/sarlacc/src/db/dbUtils.js" />
+      <jump line="46" column="17" filename="$USER_HOME$/Source/sarlacc/src/db/dbUtils.js" />
+      <jump line="28" column="9" filename="$USER_HOME$/Source/sarlacc/src/db/dbUtils.js" />
+      <jump line="59" column="21" filename="$USER_HOME$/Source/sarlacc/src/db/dbUtils.js" />
+      <jump line="53" column="0" filename="$USER_HOME$/Source/sarlacc/src/db/dbUtils.js" />
+      <jump line="84" column="11" filename="$USER_HOME$/Source/sarlacc/src/db/hothFlow.js" />
+      <jump line="72" column="26" filename="$USER_HOME$/Source/sarlacc/src/db/hothFlow.js" />
+      <jump line="61" column="14" filename="$USER_HOME$/Source/sarlacc/src/db/hothFlow.js" />
+      <jump line="62" column="49" filename="$USER_HOME$/Source/sarlacc/src/db/hothFlow.js" />
+      <jump line="52" column="0" filename="$USER_HOME$/Source/sarlacc/src/db/hothFlow.js" />
+      <jump line="44" column="0" filename="$USER_HOME$/Source/sarlacc/src/db/hothFlow.js" />
+      <jump line="38" column="0" filename="$USER_HOME$/Source/sarlacc/src/db/hothFlow.js" />
+      <jump line="33" column="0" filename="$USER_HOME$/Source/sarlacc/src/db/hothFlow.js" />
+      <jump line="53" column="0" filename="$USER_HOME$/Source/sarlacc/src/db/hothFlow.js" />
+      <jump line="25" column="0" filename="$USER_HOME$/Source/sarlacc/src/db/hothFlow.js" />
+      <jump line="932" column="19" filename="$USER_HOME$/Source/sarlacc/src/db/registrarFlow.js" />
+      <jump line="885" column="40" filename="$USER_HOME$/Source/sarlacc/src/db/registrarFlow.js" />
+      <jump line="868" column="0" filename="$USER_HOME$/Source/sarlacc/src/db/registrarFlow.js" />
+      <jump line="861" column="0" filename="$USER_HOME$/Source/sarlacc/src/db/registrarFlow.js" />
+      <jump line="881" column="0" filename="$USER_HOME$/Source/sarlacc/src/db/registrarFlow.js" />
+      <jump line="832" column="0" filename="$USER_HOME$/Source/sarlacc/src/db/registrarFlow.js" />
+      <jump line="887" column="9" filename="$USER_HOME$/Source/sarlacc/src/db/registrarFlow.js" />
+      <jump line="817" column="6" filename="$USER_HOME$/Source/sarlacc/src/db/registrarFlow.js" />
+      <jump line="828" column="0" filename="$USER_HOME$/Source/sarlacc/src/db/registrarFlow.js" />
+      <jump line="745" column="0" filename="$USER_HOME$/Source/sarlacc/src/db/registrarFlow.js" />
+      <jump line="746" column="13" filename="$USER_HOME$/Source/sarlacc/src/db/registrarFlow.js" />
+      <jump line="756" column="6" filename="$USER_HOME$/Source/sarlacc/src/db/registrarFlow.js" />
+      <jump line="807" column="47" filename="$USER_HOME$/Source/sarlacc/src/db/registrarFlow.js" />
+      <jump line="902" column="0" filename="$USER_HOME$/Source/sarlacc/src/db/registrarFlow.js" />
+      <jump line="880" column="0" filename="$USER_HOME$/Source/sarlacc/src/db/registrarFlow.js" />
+      <jump line="884" column="0" filename="$USER_HOME$/Source/sarlacc/src/db/registrarFlow.js" />
+      <jump line="886" column="0" filename="$USER_HOME$/Source/sarlacc/src/db/registrarFlow.js" />
+      <jump line="898" column="6" filename="$USER_HOME$/Source/sarlacc/src/db/registrarFlow.js" />
+      <jump line="889" column="37" filename="$USER_HOME$/Source/sarlacc/src/db/registrarFlow.js" />
+      <jump line="750" column="4" filename="$USER_HOME$/Source/sarlacc/src/db/registrarFlow.js" />
+      <jump line="730" column="24" filename="$USER_HOME$/Source/sarlacc/src/db/registrarFlow.js" />
+      <jump line="42" column="20" filename="$USER_HOME$/Source/sarlacc/src/db/groupCreator.js" />
+      <jump line="75" column="20" filename="$USER_HOME$/Source/sarlacc/src/db/groupCreator.js" />
+      <jump line="892" column="13" filename="$USER_HOME$/Source/sarlacc/src/db/registrarFlow.js" />
+      <jump line="666" column="26" filename="$USER_HOME$/Source/sarlacc/src/db/registrarFlow.js" />
+      <jump line="654" column="0" filename="$USER_HOME$/Source/sarlacc/src/db/registrarFlow.js" />
+      <jump line="83" column="0" filename="$USER_HOME$/Source/sarlacc/src/db/query.js" />
+      <jump line="79" column="0" filename="$USER_HOME$/Source/sarlacc/src/db/query.js" />
+      <jump line="648" column="14" filename="$USER_HOME$/Source/sarlacc/src/db/registrarFlow.js" />
+      <jump line="76" column="37" filename="$USER_HOME$/Source/sarlacc/src/db/query.js" />
+      <jump line="2" column="0" filename="$USER_HOME$/Source/sarlacc/src/db/query.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>group_key</text>
+        <text encoding="base64">XDx0ZW1wb3JhcnlGaXhGb3JNaXNzaW5nU3R1ZGVudEdyb3Vwc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">YWRkU2NyaXB0KCd0ZXN0cy9sb2Rhc2g0MDAuanMnKTsK</text>
@@ -366,17 +367,14 @@
       </register>
     </registers>
     <search>
-      <last-search>group_key</last-search>
+      <last-search encoding="base64">XDx0ZW1wb3JhcnlGaXhGb3JNaXNzaW5nU3R1ZGVudEdyb3Vwc1w+</last-search>
       <last-offset />
-      <last-pattern>group_key</last-pattern>
+      <last-pattern encoding="base64">XDx0ZW1wb3JhcnlGaXhGb3JNaXNzaW5nU3R1ZGVudEdyb3Vwc1w+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>email</entry>
-        <entry>capital</entry>
-        <entry>limit</entry>
         <entry>merge</entry>
         <entry encoding="base64">XDxsaXN0XD4=</entry>
         <entry encoding="base64">XDxyZW5kZXJcPg==</entry>
@@ -394,6 +392,9 @@
         <entry>h1</entry>
         <entry>4.0.0</entry>
         <entry>group_key</entry>
+        <entry encoding="base64">XDxtYXhEQkxvYWRcPg==</entry>
+        <entry encoding="base64">XDxmZXRjaEdhZVB1YmxpY0NhdGFsb2dcPg==</entry>
+        <entry encoding="base64">XDx0ZW1wb3JhcnlGaXhGb3JNaXNzaW5nU3R1ZGVudEdyb3Vwc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
