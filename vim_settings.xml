@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Source/classroom-web/src/app/helpers/settings-helper.js" timestamp="1483751990057">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/sarlacc/src/server.js" timestamp="1487809726431">
         <mark key="'" line="31" column="17" />
         <mark key="[" line="4" column="8" />
@@ -13,36 +10,14 @@
         <mark key="." line="4" column="15" />
         <mark key="^" line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/jsperf/harness.js" timestamp="1485776672081">
-        <mark key="'" line="90" column="0" />
-        <mark key="k" line="48" column="22" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/classroom-web/src/app/services/api-service.js" timestamp="1483655606984">
         <mark key="'" line="21" column="22" />
-      </file>
-      <file name="$USER_HOME$/Source/classroom-content/src/helpers/user_schema_helper.js" timestamp="1483735606033">
-        <mark key="'" line="32" column="19" />
       </file>
       <file name="$USER_HOME$/Source/registrar/src/models/membership.js" timestamp="1487808259055">
         <mark key="'" line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/Source/classroom-content/src/lib/udacity_api/common.js" timestamp="1483735714702">
-        <mark key="'" line="73" column="21" />
-      </file>
-      <file name="$USER_HOME$/Source/sarlacc/src/db/sources.js" timestamp="1487804614619">
-        <mark key="'" line="13" column="4" />
-      </file>
-      <file name="$USER_HOME$/Source/classroom-content/src/lib/gae_user.js" timestamp="1484853265088">
-        <mark key="'" line="57" column="35" />
-      </file>
       <file name="$USER_HOME$/Source/classroom-web/src/app/components/settings/setting-personal-info.jsx" timestamp="1483736105360">
         <mark key="'" line="230" column="36" />
-      </file>
-      <file name="$USER_HOME$/Source/classroom-web/src/app/components/me/show/_main.jsx" timestamp="1483752062825">
-        <mark key="'" line="57" column="4" />
       </file>
       <file name="$USER_HOME$/jsperf/render.js" timestamp="1485770565183">
         <mark key="a" line="101" column="13" />
@@ -51,10 +26,6 @@
         <mark key="]" line="18" column="25" />
         <mark key="." line="18" column="25" />
         <mark key="^" line="18" column="25" />
-      </file>
-      <file name="$USER_HOME$/Source/sarlacc/src/index.js" timestamp="1487809264464" />
-      <file name="$USER_HOME$/Source/sarlacc/src/routes/v1handlers.js" timestamp="1487810493276">
-        <mark key="'" line="243" column="0" />
       </file>
       <file name="$USER_HOME$/Source/registrar/src/controllers/accounts.js" timestamp="1485390522805">
         <mark key="'" line="265" column="22" />
@@ -84,6 +55,91 @@
         <mark key="^" line="1080" column="22" />
       </file>
       <file name="$USER_HOME$/Source/sarlacc/package.json" timestamp="1487809245884" />
+      <file name="$USER_HOME$/jsperf/index.html" timestamp="1485769806365">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="5" column="91" />
+        <mark key="]" line="5" column="91" />
+        <mark key="." line="5" column="91" />
+        <mark key="^" line="5" column="91" />
+      </file>
+      <file name="$USER_HOME$/Source/sarlacc/src/db/registrarFlow.js" timestamp="1487810606144">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="806" column="0" />
+        <mark key="]" line="806" column="0" />
+        <mark key="^" line="806" column="1" />
+        <mark key="." line="806" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/classroom-web/src/app/reducers/alerts.js" timestamp="1483741000170">
+        <mark key="'" line="1" column="32" />
+      </file>
+      <file name="$USER_HOME$/Source/registrar/db_integration_test/fake_gae/package.json" timestamp="1482460974992">
+        <mark key="'" line="44" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/registrar/src/database/psql_adapter.js" timestamp="1485391334732">
+        <mark key="'" line="384" column="31" />
+      </file>
+      <file name="$USER_HOME$/Source/classroom-content/src/schema/root_node_schema.js" timestamp="1483997114996">
+        <mark key="'" line="20" column="19" />
+      </file>
+      <file name="$USER_HOME$/Source/registrar/db_integration_test/fake_gae/Dockerfile" timestamp="1482460930893">
+        <mark key="'" line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/registrar/src/routes/v1.js" timestamp="1485391409524">
+        <mark key="'" line="27" column="39" />
+      </file>
+      <file name="$USER_HOME$/Source/sarlacc/test/sampleData/accountMixedBDConsumer.json" timestamp="1483490524558">
+        <mark key="'" line="1319" column="6" />
+      </file>
+      <file name="$USER_HOME$/Source/registrar/src/controllers/memberships.js" timestamp="1487808287182">
+        <mark key="'" line="20" column="56" />
+      </file>
+      <file name="$USER_HOME$/Source/registrar/db_integration_test/test/account_db_integration.spec.js" timestamp="1483178826955">
+        <mark key="'" line="100" column="0" />
+        <mark key="[" line="103" column="21" />
+        <mark key="]" line="103" column="21" />
+        <mark key="^" line="103" column="21" />
+        <mark key="." line="103" column="21" />
+      </file>
+      <file name="$USER_HOME$/jsperf/tests/lodash400.js" timestamp="1485776707543">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="9" column="28" />
+        <mark key="]" line="9" column="28" />
+        <mark key="^" line="1" column="29" />
+        <mark key="." line="9" column="30" />
+      </file>
+      <file name="$USER_HOME$/Source/classroom-web/src/app/helpers/settings-helper.js" timestamp="1483751990057">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/jsperf/harness.js" timestamp="1485776672081">
+        <mark key="'" line="90" column="0" />
+        <mark key="k" line="48" column="22" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/sarlacc/src/db/hothFlow.js" timestamp="1487811309291">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Source/classroom-content/src/helpers/user_schema_helper.js" timestamp="1483735606033">
+        <mark key="'" line="32" column="19" />
+      </file>
+      <file name="$USER_HOME$/Source/classroom-content/src/lib/udacity_api/common.js" timestamp="1483735714702">
+        <mark key="'" line="73" column="21" />
+      </file>
+      <file name="$USER_HOME$/Source/sarlacc/src/db/sources.js" timestamp="1487804614619">
+        <mark key="'" line="13" column="4" />
+      </file>
+      <file name="$USER_HOME$/Source/classroom-content/src/lib/gae_user.js" timestamp="1484853265088">
+        <mark key="'" line="57" column="35" />
+      </file>
+      <file name="$USER_HOME$/Source/classroom-web/src/app/components/me/show/_main.jsx" timestamp="1483752062825">
+        <mark key="'" line="57" column="4" />
+      </file>
+      <file name="$USER_HOME$/Source/sarlacc/src/index.js" timestamp="1487809264464" />
+      <file name="$USER_HOME$/Source/sarlacc/src/routes/v1handlers.js" timestamp="1487810601319">
+        <mark key="'" line="236" column="20" />
+        <mark key="." line="225" column="78" />
+      </file>
       <file name="$USER_HOME$/Source/registrar/src/routes/v1handlers.js" timestamp="1485391326141">
         <mark key="'" line="683" column="16" />
       </file>
@@ -93,28 +149,11 @@
       <file name="$USER_HOME$/Source/sarlacc/src/routes/v1.js" timestamp="1487810050794">
         <mark key="'" line="9" column="33" />
       </file>
-      <file name="$USER_HOME$/jsperf/index.html" timestamp="1485769806365">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="5" column="91" />
-        <mark key="]" line="5" column="91" />
-        <mark key="." line="5" column="91" />
-        <mark key="^" line="5" column="91" />
-      </file>
       <file name="$USER_HOME$/Source/classroom-web/src/app/components/guru/enhance-with-mentor-config-setup.jsx" timestamp="1483752091063">
         <mark key="'" line="104" column="32" />
       </file>
-      <file name="$USER_HOME$/Source/sarlacc/src/db/registrarFlow.js" timestamp="1487804597302">
-        <mark key="'" line="16" column="0" />
-        <mark key="[" line="806" column="0" />
-        <mark key="]" line="806" column="0" />
-        <mark key="^" line="806" column="1" />
-        <mark key="." line="806" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/classroom-content/src/schema/graduation_schema.js" timestamp="1483997090210">
         <mark key="'" line="29" column="25" />
-      </file>
-      <file name="$USER_HOME$/Source/classroom-web/src/app/reducers/alerts.js" timestamp="1483741000170">
-        <mark key="'" line="1" column="32" />
       </file>
       <file name="$USER_HOME$/jsperf/ui.js" timestamp="1485770083354">
         <mark key="[" line="43" column="0" />
@@ -141,18 +180,6 @@
         <mark key="^" line="1" column="29" />
         <mark key="." line="9" column="30" />
       </file>
-      <file name="$USER_HOME$/Source/registrar/db_integration_test/fake_gae/package.json" timestamp="1482460974992">
-        <mark key="'" line="44" column="0" />
-      </file>
-      <file name="$USER_HOME$/Source/registrar/src/database/psql_adapter.js" timestamp="1485391334732">
-        <mark key="'" line="384" column="31" />
-      </file>
-      <file name="$USER_HOME$/Source/classroom-content/src/schema/root_node_schema.js" timestamp="1483997114996">
-        <mark key="'" line="20" column="19" />
-      </file>
-      <file name="$USER_HOME$/Source/registrar/db_integration_test/fake_gae/Dockerfile" timestamp="1482460930893">
-        <mark key="'" line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/Source/classroom-content/src/schema/user_schema.js" timestamp="1483995359315">
         <mark key="'" line="358" column="28" />
       </file>
@@ -166,39 +193,11 @@
         <mark key="^" line="74" column="15" />
         <mark key="." line="74" column="15" />
       </file>
-      <file name="$USER_HOME$/Source/registrar/src/routes/v1.js" timestamp="1485391409524">
-        <mark key="'" line="27" column="39" />
-      </file>
-      <file name="$USER_HOME$/Source/sarlacc/test/sampleData/accountMixedBDConsumer.json" timestamp="1483490524558">
-        <mark key="'" line="1319" column="6" />
-      </file>
-      <file name="$USER_HOME$/Source/registrar/src/controllers/memberships.js" timestamp="1487808287182">
-        <mark key="'" line="20" column="56" />
-      </file>
       <file name="$USER_HOME$/Source/classroom-web/src/app/services/_queries.js" timestamp="1483996852146">
         <mark key="'" line="223" column="2" />
       </file>
-      <file name="$USER_HOME$/Source/registrar/db_integration_test/test/account_db_integration.spec.js" timestamp="1483178826955">
-        <mark key="'" line="100" column="0" />
-        <mark key="[" line="103" column="21" />
-        <mark key="]" line="103" column="21" />
-        <mark key="^" line="103" column="21" />
-        <mark key="." line="103" column="21" />
-      </file>
-      <file name="$USER_HOME$/jsperf/tests/lodash400.js" timestamp="1485776707543">
-        <mark key="'" line="9" column="0" />
-        <mark key="[" line="9" column="28" />
-        <mark key="]" line="9" column="28" />
-        <mark key="^" line="1" column="29" />
-        <mark key="." line="9" column="30" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="92" column="0" filename="$USER_HOME$/jsperf/harness.js" />
-      <jump line="0" column="22" filename="$USER_HOME$/jsperf/tests/index.js" />
-      <jump line="1" column="0" filename="$USER_HOME$/jsperf/harness.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/jsperf/harness.js" />
-      <jump line="3" column="0" filename="$USER_HOME$/jsperf/harness.js" />
       <jump line="81" column="0" filename="$USER_HOME$/jsperf/ui.js" />
       <jump line="16" column="0" filename="$USER_HOME$/jsperf/ui.js" />
       <jump line="78" column="0" filename="$USER_HOME$/jsperf/ui.js" />
@@ -246,7 +245,6 @@
       <jump line="1" column="22" filename="$USER_HOME$/jsperf/tests/lodash4174.js" />
       <jump line="4" column="59" filename="$USER_HOME$/jsperf/tests/lodash4174.js" />
       <jump line="25" column="0" filename="$USER_HOME$/Source/sarlacc/src/db/registrarFlow.js" />
-      <jump line="18" column="0" filename="$USER_HOME$/Source/sarlacc/src/db/registrarFlow.js" />
       <jump line="16" column="0" filename="$USER_HOME$/Source/sarlacc/src/db/registrarFlow.js" />
       <jump line="13" column="4" filename="$USER_HOME$/Source/sarlacc/src/db/sources.js" />
       <jump line="8" column="36" filename="$USER_HOME$/Source/sarlacc/src/server.js" />
@@ -294,6 +292,12 @@
       <jump line="177" column="0" filename="$USER_HOME$/Source/sarlacc/src/routes/v1handlers.js" />
       <jump line="164" column="0" filename="$USER_HOME$/Source/sarlacc/src/routes/v1handlers.js" />
       <jump line="243" column="0" filename="$USER_HOME$/Source/sarlacc/src/routes/v1handlers.js" />
+      <jump line="227" column="0" filename="$USER_HOME$/Source/sarlacc/src/routes/v1handlers.js" />
+      <jump line="240" column="0" filename="$USER_HOME$/Source/sarlacc/src/routes/v1handlers.js" />
+      <jump line="231" column="26" filename="$USER_HOME$/Source/sarlacc/src/routes/v1handlers.js" />
+      <jump line="236" column="20" filename="$USER_HOME$/Source/sarlacc/src/routes/v1handlers.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/Source/sarlacc/src/db/registrarFlow.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Source/sarlacc/src/db/hothFlow.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
